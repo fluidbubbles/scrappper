@@ -1,0 +1,14 @@
+# Compiled source files
+*.pyc
+*.pyo
+
+# Cached compiled sources
+__pycache__
+
+# Pycharm configuration
+.idea
+
+# Builds and dist
+build/*
+dist/*
+*.egg-info
